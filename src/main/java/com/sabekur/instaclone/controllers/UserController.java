@@ -34,5 +34,6 @@ public class UserController {
         model.addAttribute("listUsers", listUsers);
         return "user/show-all-user";
     }
+    //ohter class will be add later here
 
 }
